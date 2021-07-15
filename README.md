@@ -11,3 +11,6 @@
   <li>activity_results</li>
   <li>activity_about</li>
 </ol>
+
+
+![project1(s1)](https://user-images.githubusercontent.com/79825300/125746770-27a482d8-6b4f-4798-abb2-c72bd88e01fa.png)
